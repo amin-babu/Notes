@@ -1,6 +1,6 @@
 Enumerate
 
-  => to make a list as order or index in normal way
+  => to make a list as order or index
 
     -> Normal Way
     -------------
