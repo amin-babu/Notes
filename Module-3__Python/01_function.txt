@@ -1,0 +1,5 @@
+Function basic syntax 
+
+def a(): #defing
+  print('its called A') #block_code
+a()  #calling
