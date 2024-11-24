@@ -1,0 +1,15 @@
+OOP Constructor
+---------------
+  class MyClass:
+
+    def __init__(self):
+      print(4 + 6)
+
+  obj = MyClass()
+
+  => Do not need to call
+  => Constructor doesn't take any parameter
+  => It doesn't return
+
+
+1. What is Constructor?
