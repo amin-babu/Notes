@@ -11,12 +11,14 @@ Key Points
   => attributes
   => methods
   => inheritence
+  => abstraction
   => encapsulation
   => polymorphism
 
 
-Syntax
-------
+Basic Example
+-------------
+
     class MyClass:
       x = 50
       y = 30
