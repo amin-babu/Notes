@@ -1,9 +1,0 @@
-what is polymorphism?
----------------------
-  => OverLoading and OverRiding method or variables
-
-  => Complie time polymorphism
-    -> OverLoading
-
-  => Run time polymorphism
-    -> OverRiding
