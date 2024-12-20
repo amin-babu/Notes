@@ -1,0 +1,26 @@
+1. How to create a table:
+-------------------------
+
+CREATE TABLE buses (
+  bus_id INT PRIMARY KEY AUTO_INCREMENT,
+  bus_name VARCHAR(255) NOT NULL,
+  bus_type VARCHAR(255) NOT NULL,
+  total_seats INT NOT NULL
+);
+
+
+2. Insert Data:
+---------------
+
+INSERT INTO `buses`(`bus_id`, `bus_name`, `bus_type`, `total_seats`) VALUES ('[value-1]','[value-2]','[value-3]','[value-4]')
+
+
+3. Update Data:
+---------------
+
+UPDATE `buses` SET `bus_name`='Iran Convention',`bus_type`='Premium',`total_seats`='48' WHERE `bus_id`='17'
+
+4. Delete Data:
+---------------
+
+DELETE FROM `buses` WHERE `bus_id` = '18';
