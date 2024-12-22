@@ -1,0 +1,4 @@
+Customer from the particular city:
+----------------------------------
+
+SELECT * FROM `customer` WHERE (CITY = 'Salem' AND POSTAL_CODE IN ('03089', '03079')) OR CITY = 'Wilmington';

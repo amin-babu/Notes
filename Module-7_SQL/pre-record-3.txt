@@ -1,0 +1,4 @@
+Show datas from 2 table together:
+---------------------------------
+
+SELECT customer.CUST_ID, individual.birth_date, individual.first_name, individual.last_name, customer.POSTAL_CODE FROM `customer`, `individual` WHERE CITY = 'salem' AND customer.CUST_ID = individual.CUST_ID;

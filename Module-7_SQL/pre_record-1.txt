@@ -1,0 +1,6 @@
+1. SEE ALL DATA:
+----------------
+SELECT * FROM customer;
+
+2. Grouping Data:
+SELECT COUNT(*) as Total_customers, CITY, STATE, POSTAL_CODE FROM `customer` GROUP BY CITY, POSTAL_CODE;
