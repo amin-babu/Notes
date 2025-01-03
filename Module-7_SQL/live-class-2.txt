@@ -1,8 +1,0 @@
-1. Database Relationship Sign
-2. Database Table Sequence
-3. What is Normalization (SQL)
-4. Normalized Data Model(SQL), Embeded Data Model (NoSQL)
-5. Structured Data(in-SQL), Semi-Structured Data (JSON), Un-Structured Data (Unused)
-6. What is ERD Diagram, How to understand
-7. Design a Relational Database with users, customers, invoice, categories, products, invoice_products
-8. How to find pin point ecurate ERD Diagram
