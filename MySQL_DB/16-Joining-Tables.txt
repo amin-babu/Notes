@@ -66,3 +66,12 @@ SELECT
 FROM student_details AS std RIGHT JOIN exam_result as exam
 ON std.Roll = exam.Roll;
 
+
+UNION/UNION ALL:
+SELECT Roll, Name, Gender 
+FROM sylhet_tour
+ 
+UNION
+ 
+SELECT Roll, Name, Gender 
+FROM dhaka_tour
