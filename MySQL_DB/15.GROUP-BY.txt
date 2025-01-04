@@ -9,3 +9,7 @@ FROM table
 # GROUP BY alawyes will be on middle position.
 # After where, Befor ORDER
 
+SELECT Department, SUM(salary)
+FROM teacher
+GROUP BY Department
+ORDER BY Department DESC;
